@@ -1,0 +1,33 @@
+# Topico do projecto
+- Aceder e cadastrar varias escolas no sistema
+- Criar o super admintrador para poder aceder todas escolas
+- criar um administrador para cada escola
+- cadastrar professores e acesso a escola
+- cadastrar estudantes e acesso a escola
+- cadastrar recepcionistas
+
+# Permissão
+- recepcionista pode adicionar estudantes
+- professores pode adicionar estudantes a disicplina
+- professores podem corrigir exame
+- estudante pode submeter exame
+- professor pode fazer download do ficheiro de exame
+- professor pode marcar os exames que foram corrigidos de cada estudante
+- estudantes podem ver a correção dos exames submetidos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
