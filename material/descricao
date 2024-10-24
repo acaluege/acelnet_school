@@ -29,9 +29,17 @@
 - criar a tabela users
 
 # core files
-- 
 - testar o sistema de roteamento se esta funcionando
-site:locacalhost/acelnet_school/public/
+"site:locacalhost/acelnet_school/public/"
+- definir o "autoloader" responsavel pelo carregamento dos ficheiros dentro da pasta "core"
+
+# app.php
+- trabalhar com o file <"app.php"> dentro da pasta "core"
+- definir como pegar os dados vindo da "url"
+- atraves do ".htaccess" 
+- RewriteRule ^(.*)$ index.php?url=$1 [L,QSA] : regras de filtro da url
+
+
 
 
 
