@@ -1,3 +1,3 @@
 <?php
 
-echo "app folder";
+echo "Teste roteamento";
