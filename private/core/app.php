@@ -1,3 +1,3 @@
 <?php
 
-require("../private/core/app.php");
+echo "app folder";

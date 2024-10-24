@@ -1,2 +1,5 @@
 # acelnet_school
-Gestaão Escolar
+Gestão Escolar
+
+# Nota:
+Este software é voltado para treinamento.
