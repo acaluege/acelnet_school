@@ -1,0 +1,4 @@
+# Fatal Error: 
+- Uncaught TypeError "explode()": Argument #2 (String) must be of type string, array
+: Antes #: return explode("/", $_GET);
+: Depois #: return explode("/", $_GET['url']);
