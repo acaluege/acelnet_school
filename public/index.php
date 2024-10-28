@@ -1,3 +1,5 @@
 <?php
-/**Testar o sistema de roteamento*/
-include("../private/core/app.php");
+
+include("../private/core/autoload.php");
+
+$app = new App();
