@@ -5,8 +5,8 @@
 */
 class Estudante extends Controller
 {
-    function __construct()
+    function index($id = '')
     {
-        echo "Controlador da classe Estudante";
+        echo "Controlador da classe Estudante" . $id;
     }
 }
