@@ -5,8 +5,8 @@
 */
 class Estudante extends Controller
 {
-    function index($id = '')
+     function index()
     {
-        echo "Controlador da classe Estudante" . $id;
+        echo $this->view('estudante');
     }
 }
