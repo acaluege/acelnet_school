@@ -3,7 +3,7 @@
     <div class="container-fluid">
         
         <div class="p-4 mx-auto mr-4 shadow rounded" style="margin-top: 50px; width:100%;max-width:340px;">
-            <h2 class="text-center">Acelnet School</h2>
+            <h2 class="text-center">Escola Acelnet</h2>
             <img src="<?=ROOT?>/assets/logo.png" class="border border-primary d-block mx-auto rounded-cicle" style="width:100px;">
             <h3>Login</h3>
              <input class="form-control" type="email" name="email" placeholder="Email" autofocus>
