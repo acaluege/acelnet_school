@@ -39,6 +39,10 @@
 - atraves do ".htaccess" 
 - RewriteRule ^(.*)$ index.php?url=$1 [L,QSA] : regras de filtro da url
 
+# Aceder o navbar - aula11
+- https://getbootstrap.com/docs/4.0/components/navbar/
+- No nav.view.php { tivemos que adicionar o "bs" para que que o menu seja interativo após adicionar o ROOT e Js
+
 
 
 
